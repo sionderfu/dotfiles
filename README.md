@@ -30,9 +30,9 @@
 - Vim
 <details>
 
-# Vim Plugins
+### Vim Plugins
 
-</details>
+<details>
 
 - Gruvbox
 - Lightline
