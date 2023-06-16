@@ -28,7 +28,7 @@
 
 - Kitty
 - Vim
-<details>
+</details>
 
 ### Vim Plugins
 
