@@ -20,4 +20,29 @@
 │               └── 50-mouse-acceleration.conf
 └── README.md
 ```
+
+</details>
+
+### Packages
+<details>
+
+- Kitty
+- Vim
+<details>
+
+# Vim Plugins
+
+</details>
+
+- Gruvbox
+- Lightline
+- Fugitive
+- Rainbow
+- Floaterm
+- Cursorword
+- UndoTree
+- Signature
+- VimTeX
+- Kitty
+- Goyo
 </details>
