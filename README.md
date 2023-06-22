@@ -47,6 +47,7 @@
 <details>
 
 Required* for dotfiles
+- Bash*
 - Kitty*
 - Vim*
 - Xorg*
