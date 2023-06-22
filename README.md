@@ -8,26 +8,36 @@
 </pre>
 </html>
 
-## Repository Structure
+### Repository Structure
 <details>
 
 ```
+├── bash
+│   └── ~/.bashrc
+├── git
+│   └── ~/.gitconfig
 ├── kitty
 │   └── ~/.config
 │          └── kitty
 │              └── kitty.conf
 ├── vim
-│   └── ~/.vim
-│          └── autoload
-│              └── plug.vim
+│   ├── ~/.vim
+│   │      └── autoload
+│   │          └── plug.vim
 │   └── ~/.vimrc
 ├── xorg
-│   └── /etc
-│       └── X11
-│           └── xorg.conf.d
-│               ├── 10-monitor.conf
-│               ├── 20-nvidia.conf
-│               └── 50-mouse-acceleration.conf
+│   ├── /etc
+│   │    └── X11
+│   │        └── xorg.conf.d
+│   │            ├── 10-monitor.conf
+│   │            ├── 20-nvidia.conf
+│   │            └── 50-mouse-acceleration.conf
+│   └── ~/.xinitrc
+├── zathura
+│   └── ~/.config
+│          └── zathura
+│              └── zathurarc
+├── LICENSE
 └── README.md
 ```
 
@@ -36,23 +46,12 @@
 ### Packages
 <details>
 
-- Kitty
-- Vim
-</details>
-
-### Vim Plugins
-
-<details>
-
-- Gruvbox
-- Lightline
-- Fugitive
-- Rainbow
-- Floaterm
-- Cursorword
-- UndoTree
-- Signature
-- VimTeX
-- Kitty
-- Goyo
+Required* for dotfiles
+- Kitty*
+- Vim*
+- Xorg*
+- Zathura*
+- Git*
+- fzf
+- bat
 </details>
