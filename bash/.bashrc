@@ -13,6 +13,5 @@ alias pip='python3 -m pip'
 alias ll='ls -lah'
 alias v='vim'
 alias poof='rm -r'
-
-# vi mode
-set -o vi
+alias cb='cd ..'
+alias G='git'
