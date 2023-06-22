@@ -58,6 +58,12 @@ set statusline+=\ %f
 " show line number
 set number
 
+" wrap
+set linebreak
+
+" mouse support
+set mouse=a
+
 " misc.
 set nocompatible
 
