@@ -13,7 +13,7 @@
 |          Type           |        Application        |       Package Name        | Description | Repository | Website | AUR? | Dotfiles? |
 |:-----------------------:|:-------------------------:|:-------------------------:|:-----------:|:----------:|:-------:|:----:|:---------:|
 |          Shell          |           Bash            |           bash            |             |            |         |  No  |    Yes    |
-|     Version Control     |            Git            |            git            |             |            |         |  No  |    Yes    |
+|     Version Control     |            Git            |            git            |             |            |         |  No  |    No     |
 |         Editor          |            Vim            |            vim            |             |            |         |  No  |    Yes    |
 |     Window Manager      |           Qtile           |           qtile           |             |            |         |  No  |    No     |
 |      Fuzzy Finder       |            fzf            |            fzf            |             |            |         |  No  |    No     |
@@ -21,11 +21,11 @@
 |       PDF Viewer        |          Zathura          |          zathura          |             |            |         |  No  |    Yes    |
 |     Display Server      |           Xorg            |        xorg-server        |             |            |         |  No  |    Yes    |
 |    Terminal Emulator    |           Kitty           |           kitty           |             |            |         |  No  |    Yes    |
-|      File Manager       |           vifm            |           vifm            |             |            |         |  No  |    Yes    |
+|      File Manager       |           vifm            |           vifm            |             |            |         |  No  |    No     |
 | Spreadsheet Calculator  |           SC-IM           |           sc-im           |             |            |         |  No  |    No     |
 |        Calendar         |         Calcurse          |         calcurse          |             |            |         |  No  |    No     |
 |      Email Client       |          NeoMutt          |          neomutt          |             |            |         |  No  |    No     |
-|      Photo Viewer       |           sxiv            |           sxiv            |             |            |         |  No  |    Yes    |
+|      Photo Viewer       |           sxiv            |           sxiv            |             |            |         |  No  |    No     |
 |      Video Player       |            VLC            |            vlc            |             |            |         |  No  |    No     |
 |      Music Player       |     Music on Console      |        moc (mocp)         |             |            |         |  No  |    No     |
 |       Web Browser       | Firefox Developer Edition | firefox-developer-edition |             |            |         |  No  |    No     |
