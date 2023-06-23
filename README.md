@@ -8,7 +8,7 @@
 </pre>
 </html>
 
-### Packages
+## Packages
 
 |          Type           |        Application        |       Package Name        | Description | Repository | Website | AUR? | Dotfiles? |
 |:-----------------------:|:-------------------------:|:-------------------------:|:-----------:|:----------:|:-------:|:----:|:---------:|
@@ -35,13 +35,11 @@
 [Download my wallpaper here.](https://github.com/AngelJumbo/gruvbox-wallpapers/blob/main/wallpapers/minimalistic/finalizer.png)
 
 
-### Repository Structure
+## Repository Structure
 
 ```
 ├── bash
 │   └── ~/.bashrc
-├── git
-│   └── ~/.gitconfig
 ├── kitty
 │   └── ~/.config
 │          └── kitty
