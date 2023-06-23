@@ -32,7 +32,7 @@
 |     System Monitor      |           htop            |           htop            |             |            |         |  No  |    No     |
 |       Compositor        |           Picom           |           picom           |             |            |         |  No  |    No     |
 
-Download my wallpaper here.
+[Download my wallpaper here.](https://github.com/AngelJumbo/gruvbox-wallpapers/blob/main/wallpapers/minimalistic/finalizer.png)
 
 
 ### Repository Structure
