@@ -11,6 +11,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'morhetz/gruvbox'
 Plug 'luochen1990/rainbow'
 Plug 'itchyny/vim-cursorword'
+Plug 'ap/vim-css-color'
 
 " git
 Plug 'tpope/vim-fugitive'
@@ -29,6 +30,9 @@ Plug 'fladson/vim-kitty'
 " fuzzy finder
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
+
+" file manager
+Plug 'vifm/vifm.vim'
 
 " misc.
 Plug 'mbbill/undotree' 
@@ -61,8 +65,8 @@ set number
 " wrap
 set linebreak
 
-" mouse support
-set mouse=a
+" shiftround
+set shiftround
 
 " misc.
 set nocompatible
