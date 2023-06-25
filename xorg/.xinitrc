@@ -48,7 +48,6 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 
-picom &
 qtile start
 
 setterm -blank 0 -powersave off -powerdown 0
