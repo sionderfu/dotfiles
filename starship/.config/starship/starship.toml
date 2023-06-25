@@ -1,6 +1,11 @@
 # Inserts a blank line between shell prompts
-add_newline = false
+add_newline = true
 
+[character]
+success_symbol = "[</>](bold yellow)"
+error_symbol = "[X](bold red)"
+
+# Nerd Font icons
 [aws]
 symbol = "  "
 [buf]
